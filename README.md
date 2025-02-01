@@ -40,6 +40,6 @@ Sur ce profil, vous trouverez des projets liés à :
 *Ce dashboard présente des visualisations interactives dans le cadre du pilotage d'une activité de e-commerce. Il s'adresse au PDG et au Responsable des ventes, ainsi qu'aux chefs de produit.*
 
 ![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_bottleneck.png)
-🎥 [Voir la démonstration en vidéo] (https://urlr.me/ZNWK8r)
+🎥 [Voir la démonstration en vidéo] (https://urlr.me/n73TNC)
 
 N'hésitez pas à explorer mes projets et à me contacter ! 🚀
