@@ -16,7 +16,7 @@ Sur ce profil, vous trouverez des projets liés à :
 ### 👉 Retrouvez mes principaux notebooks ci-dessous : 
 
 - [🔗 Optimisation de gestion d'une boutique de vins et spiritueux | Nettoyage des données du stock] ([projet_gestion_stock_boutique.ipynb](https://nbviewer.org/github/Walid-DABI/Walid-DABI/blob/main/projet_gestion_stock_boutique.ipynb))  
-- [🔗 Analyse de tendance des prix de l'immobilier | Prédiction de la valorisation du portefeuille d'actif d'une agence immobilière] 
+- [🔗 Analyse de tendance des prix de l'immobilier | Prédiction de la valorisation du portefeuille d'actif d'une agence immobilière] (https://nbviewer.org/github/Walid-DABI/Walid-DABI/blob/main/analyse-prix-immobilier.ipynb)
 - [🔗 Analyse d'une demande Business pour un studio de création de jeu vidéo | Identification des segments du marché les plus porteurs]
 
 ### 📌 Et là, des projets sur d'autres supports :
