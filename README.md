@@ -29,8 +29,8 @@ Sur ce profil, vous trouverez des projets liés à :
 - [🔗 Visualisation de l'état d'avancement de projets pour une entreprise pharmaceutique internationale | Tableau dynamique Power BI]
 
 **Aperçu du tableau de bord** 
-! [Tableau de bord Power BI] ([assets/miniature_sanitoral.png](https://github.com/Walid-DABI/Walid-DABI/blob/main/assets/miniature_sanitoral.png?raw=true))
-
+![Tableau de bord Power BI]
+(https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/blob/main/assets/miniature_sanitoral.png?raw=true)
 
 
 N'hésitez pas à explorer mes projets et à me contacter ! 🚀
