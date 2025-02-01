@@ -8,14 +8,14 @@ Sur ce profil, vous trouverez des projets liés à :
 -  📊 **la visualisation de données avec Excel**
 -  🖥 **la collecte, au requêtage et à la manipulation de base de données avec SQL**
 -  🐍 **l'optimisation de la gestion d'un stock magasin par le nettoyage et la résolution d'incohérences avec Python**
--  🔍 **création de tableaux de bord dynamique avec Power BI**
+-  🔍 **la création de tableaux de bord dynamique avec Power BI**
 -  📈 **l'analyse de tendance de prix et à la prédiction grâce au Machine Learning**
 -  🔎 **l'analyse de données historiques pour répondre à une problématique Business et identifier les segments d'un marché les plus pertinents**
 
 ## 📂 Mes projets 
 ### 👉 Retrouvez mes principaux notebooks ci-dessous : 
 
-- [🔗 Optimisation de gestion d'une boutique de vins et spiritueux | Nettoyage des données du stock] (https://nbviewer.org/github/Walid-DABI/Walid-DABI/blob/main/projet_gestion_stock_boutique.ipynb))  
+- [🔗 Optimisation de gestion d'une boutique de vins et spiritueux | Nettoyage des données du stock] (https://nbviewer.org/github/Walid-DABI/Walid-DABI/blob/main/projet_gestion_stock_boutique.ipynb)  
 - [🔗 Analyse de tendance des prix de l'immobilier | Prédiction de la valorisation du portefeuille d'actif d'une agence immobilière] (https://nbviewer.org/github/Walid-DABI/Walid-DABI/blob/main/analyse-prix-immobilier.ipynb)
 - [🔗 Analyse d'une demande Business pour un studio de création de jeu vidéo | Identification des segments du marché les plus porteurs]
 
