@@ -2,7 +2,7 @@
 
 Je suis **Walid**, ***Data Analyst spécialisé en Business Intelligence*** (ou Data Analyst BI). 
 Je suis arrivé à la science des données - et plus précisément à l'information décisionnelle - par la voie du marketing et depuis, je n'arrive plus à m'en passer ! 😊
-Mon rôle : faire émerger à partir de données brutes des informations actionnables pour faciliter la prise de décisions stratégiques et commerciales.
+Mon rôle : partir de données brutes pour faire émerger des informations actionnables et faciliter la prise de décisions stratégiques et commerciales.
 
 Sur ce profil, vous trouverez des projets liés à :
 -  📊 **la visualisation de données grâce à Excel**
