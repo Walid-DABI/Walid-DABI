@@ -21,7 +21,10 @@ Sur ce profil, vous trouverez des projets liés à :
 
 ### 📌 Et là, des projets sur d'autres supports :
 
-- [🔗 Caractériser les clients perdus à partir des données extraites du logiciel de gestion commerciale d'une banque] (https://urlr.me/TCm6hp)
-- [Power BI...
+- [🔗 Caractériser les clients perdus à partir des données extraites du logiciel de gestion commerciale d'une banque]
+📽️ **Présentation PowerPoint** 👉 https://urlr.me/TCm6hp
+- [🔗 Requêter une base de donnée SQL d'une assurance habitation] (https://urlr.me/kK7UZf)
+- [🔗 Collecte de données / traitement pour mise en conformité RGPD d'un fichier d'assureur automobile] (https://urlr.me/RgGtkv)
+- [🔗 
 
 N'hésitez pas à explorer mes projets et à me contacter ! 🚀
