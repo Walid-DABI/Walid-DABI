@@ -29,7 +29,7 @@ Sur ce profil, vous trouverez des projets liés à :
 - [🔗 Visualisation de l'état d'avancement de projets pour une entreprise pharmaceutique internationale | Tableau dynamique Power BI]
 
 **Aperçu du tableau de bord** 
-! [Tableau de bord Power BI] (assets/miniature-sanitoral.png)
+! [Tableau de bord Power BI] (assets/miniature_sanitoral.png)
 
 
 
