@@ -10,7 +10,7 @@ Sur ce profil, vous trouverez des projets liés à :
 -  🐍 **l'optimisation de la gestion d'un stock magasin par le nettoyage et la résolution d'incohérences avec Python**
 -  🔍 **la création de tableaux de bord dynamique avec Power BI**
 -  📈 **l'analyse de tendance de prix et à la prédiction grâce au Machine Learning**
--  🔎 **l'analyse de données historiques pour répondre à une problématique Business et identifier les segments d'un marché les plus pertinents**
+-  🔎 **l'analyse de données historiques pour répondre à une problématique Business et identifier les segments les plus pertinents d'un marché**
 
 ## 📂 Mes projets 
 ### 👉 Retrouvez mes principaux Notebooks Jupyter ci-dessous : 
