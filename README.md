@@ -26,11 +26,16 @@ Sur ce profil, vous trouverez des projets liés à :
 - [🔗 Requêter une base de donnée SQL d'une assurance habitation] (https://urlr.me/kK7UZf)
 - [🔗 Collecte de données / traitement pour mise en conformité RGPD d'un fichier d'assureur automobile] (https://urlr.me/RgGtkv)
 
-- [🔗 Visualisation de l'état d'avancement de projets pour une entreprise pharmaceutique internationale | Tableau dynamique Power BI]
+**Tableaux de bord dynamiques Power BI**
 
-**Aperçu du tableau de bord** 
+- [💊 Visualisation de l'état d'avancement de projets pour une entreprise pharmaceutique internationale]
+*Ce dashboard présente des visualisations interactives dans le cadre de la gestion de projets d'une entreprise du secteur pharmaceutique. Son objectif consiste à évaluer les performances des différents projets IT et Marketing en cours dans le monde. Il s'adresse au Directeur Général, aux Directeurs Régionaux et aux Directeurs Pays de la société.*
+
 ![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_sanitoral.png)
-! [Tableau de bord Power BI] (assets/miniature_sanitoral.png)
+🎥 [Voir la démonstration en vidéo] (https://urlr.me/ZBfsWS)
+
+- [
+
 
 
 N'hésitez pas à explorer mes projets et à me contacter ! 🚀
