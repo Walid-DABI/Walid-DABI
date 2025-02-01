@@ -25,6 +25,12 @@ Sur ce profil, vous trouverez des projets liés à :
 📽️ **Présentation PowerPoint** 👉 https://urlr.me/TCm6hp
 - [🔗 Requêter une base de donnée SQL d'une assurance habitation] (https://urlr.me/kK7UZf)
 - [🔗 Collecte de données / traitement pour mise en conformité RGPD d'un fichier d'assureur automobile] (https://urlr.me/RgGtkv)
-- [🔗 
+
+- [🔗 Visualisation de l'état d'avancement de projets pour une entreprise pharmaceutique internationale | Tableau dynamique Power BI]
+
+**Aperçu du tableau de bord** 
+! [Tableau de bord Power BI] (assets/miniature-sanitoral.png)
+
+
 
 N'hésitez pas à explorer mes projets et à me contacter ! 🚀
