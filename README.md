@@ -15,7 +15,7 @@ Sur ce profil, vous trouverez des projets liés à :
 ## 📂 Mes projets 
 ### 👉 Retrouvez mes principaux notebooks ci-dessous : 
 
-- [🔗 Optimisation de gestion d'une boutique de vins et spiritueux | Nettoyage des données du stock]   
+- [🔗 Optimisation de gestion d'une boutique de vins et spiritueux | Nettoyage des données du stock] (projet_gestion_stock_boutique.ipynb)  
 - [🔗 Analyse de tendance des prix de l'immobilier | Prédiction de la valorisation du portefeuille d'actif d'une agence immobilière] 
 - [🔗 Analyse d'une demande Business pour un studio de création de jeu vidéo | Identification des segments du marché les plus porteurs]
 
