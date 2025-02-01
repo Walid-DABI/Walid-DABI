@@ -8,7 +8,7 @@ Sur ce profil, vous trouverez des projets liés à :
 -  📊 **la visualisation de données grâce à Excel**
 -  🖥 **la collecte, au requêtage et à la manipulation de base de données avec SQL**
 -  🐍 **l'optimisation de la gestion d'un stock magasin par le nettoyage et la résolution d'incohérences avec Python**
--  🔍 **la création de tableaux de bord dynamique avec Power BI**
+-  ⚡️ **la création de tableaux de bord dynamique avec Power BI**
 -  📈 **l'analyse de tendance de prix et à la prédiction grâce au Machine Learning**
 -  🔎 **l'analyse de données historiques pour répondre à une problématique Business et identifier les segments les plus pertinents d'un marché**
 
@@ -26,16 +26,20 @@ Sur ce profil, vous trouverez des projets liés à :
 - [🔗 Requêter une base de donnée SQL d'une assurance habitation] (https://urlr.me/kK7UZf)
 - [🔗 Collecte de données / traitement pour mise en conformité RGPD d'un fichier d'assureur automobile] (https://urlr.me/RgGtkv)
 
-**Tableaux de bord dynamiques Power BI**
+### ⚡️ Tableaux de bord dynamiques Power BI :
 
 - [💊 Visualisation de l'état d'avancement de projets pour une entreprise pharmaceutique internationale]
+
 *Ce dashboard présente des visualisations interactives dans le cadre de la gestion de projets d'une entreprise du secteur pharmaceutique. Son objectif consiste à évaluer les performances des différents projets IT et Marketing en cours dans le monde. Il s'adresse au Directeur Général, aux Directeurs Régionaux et aux Directeurs Pays de la société.*
 
 ![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_sanitoral.png)
 🎥 [Voir la démonstration en vidéo] (https://urlr.me/ZBfsWS)
 
-- [
+- [🍷 Solution de data visualisation pour le suivi commercial d'une boutique de vin en ligne]
 
+*Ce dashboard présente des visualisations interactives dans le cadre du pilotage d'une activité de e-commerce. Il s'adresse au PDG et au Responsable des ventes, ainsi qu'aux chefs de produit.*
 
+![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_bottleneck.png)
+🎥 [Voir la démonstration en vidéo] (https://urlr.me/ZNWK8r)
 
 N'hésitez pas à explorer mes projets et à me contacter ! 🚀
