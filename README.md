@@ -4,13 +4,13 @@ Je suis **Walid**, ***Data Analyst spécialisé en Business Intelligence*** (ou 
 Je suis arrivé à la science des données - et plus précisément à l'information décisionnelle - par la voie du marketing et depuis, je n'arrive plus à m'en passer ! 😊
 Mon rôle : partir de données brutes pour faire émerger des informations actionnables et faciliter la prise de décisions stratégiques et commerciales.
 
-Sur ce profil, vous trouverez des projets liés à :
--  📊 **la visualisation de données grâce à Excel**
--  🖥 **la collecte, au requêtage et à la manipulation de base de données avec SQL**
--  🐍 **l'optimisation de la gestion d'un stock magasin par le nettoyage et la résolution d'incohérences avec Python**
--  ⚡️ **la création de tableaux de bord dynamique avec Power BI**
--  📈 **l'analyse de tendance de prix et à la prédiction grâce au Machine Learning**
--  🔎 **l'analyse de données historiques pour répondre à une problématique Business et identifier les segments les plus pertinents d'un marché**
+Sur ce profil, vous trouverez des projets liés :
+-  📊 **à la visualisation de données grâce à Excel**
+-  🖥 **à la collecte, au requêtage et à la manipulation de base de données avec SQL**
+-  🐍 **à l'optimisation de la gestion d'un stock magasin par le nettoyage et la résolution d'incohérences avec Python**
+-  ⚡️ **à la création de tableaux de bord dynamique avec Power BI**
+-  📈 **à l'analyse de tendance de prix et à la prédiction grâce au Machine Learning**
+-  🔎 **à l'analyse de données historiques pour répondre à une problématique Business et identifier les segments les plus pertinents d'un marché**
 
 ## 📂 Mes projets 
 ### 👉 Retrouvez mes principaux Notebooks Jupyter ci-dessous : 
