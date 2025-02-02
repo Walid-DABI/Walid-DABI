@@ -42,7 +42,7 @@ Sur ce profil, vous trouverez des projets liés :
 ![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_bottleneck.png)
 🎥 [Voir la démonstration en vidéo] (https://urlr.me/n73TNC)
 
-
+![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_dashboard_veille_metier.png)
 🎥 [Voir la démonstration en vidéo] (https://urlr.me/DKQwu3)
 
 N'hésitez pas à explorer mes projets et à me contacter ! 🚀
