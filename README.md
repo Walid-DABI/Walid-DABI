@@ -61,7 +61,7 @@ TABLEAU DE BORD DE GESTION DU PROJET PORTFOLIO | DIAGRAMME DE GANTT
 
 TABLEAU DE BORD PROFIL PROFESSIONNEL DATA ANALYST
 ![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/ .png)
-🎥 [Voir la démonstration en vidéo] 
+🎥 [Voir la démonstration en vidéo] (https://urls.fr/Q_ImWK)
 
 
 
