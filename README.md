@@ -46,8 +46,9 @@ TABLEAU DE BORD PROFIL PROFESSIONNEL DATA ANALYST
 🎥 [Voir la démonstration en vidéo](https://urlr.me/n73TNC)
 
 
-🚨🚨🚨
-👉 [Dernier projet en date : candidature au poste de chef de projet Data pour une entreprise du secteur de l'aéronautique](https://github.com/Walid-DABI/candidature_aeroworld)
+### 🚨🚨🚨 Mon dernier projet en date :
+
+- [Candidature au poste de CHEF DE PROJET DATA pour une entreprise du secteur de l'aéronautique | Aéroworld](https://github.com/Walid-DABI/candidature_aeroworld)
 
 
 N'hésitez pas à explorer mes projets et à me contacter ! 🚀
