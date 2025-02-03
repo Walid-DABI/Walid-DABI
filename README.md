@@ -50,5 +50,6 @@ TABLEAU DE BORD PROFIL PROFESSIONNEL DATA ANALYST
 
 👉 [Visitez mon site PythonAnywhere](https://eric2mangel.pythonanywhere.com/)
 
+[Dernier projet en date](https://github.com/Walid-DABI/candidature_aeroworld)
 
 N'hésitez pas à explorer mes projets et à me contacter ! 🚀
