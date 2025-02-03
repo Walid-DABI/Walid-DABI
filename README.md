@@ -49,7 +49,7 @@ TABLEAU DE BORD VEILLE MÉTIER
 🎥 [Voir la démonstration en vidéo] (https://urlr.me/DKQwu3)
 
 - [📘 Rapport d'analyse en PDF  des besoins métiers du client]
-- [📗 Cahier des charges fonctionnel en PDF du projet Portfolio]
+- [📗 Cahier des charges fonctionnel en PDF du projet Portfolio] (https://urls.fr/psts7P)
 - [🚀 Diagramme de Gantt | Gestion du projet Portfolio]
 - [🎥 Session de formation/tuto outil Power BI] (https://urls.fr/0QKp-z)
 - [📕 Procédure de documentation en PDF 'Création d'un graphique d'analyse data']
