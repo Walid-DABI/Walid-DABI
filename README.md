@@ -42,7 +42,22 @@ Sur ce profil, vous trouverez des projets liés :
 ![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_bottleneck.png)
 🎥 [Voir la démonstration en vidéo] (https://urlr.me/n73TNC)
 
+### 🛫 Portfolio de candidature Aéroworld :
+
+TABLEAU DE BORD VEILLE MÉTIER
 ![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_dashboard_veille_metier.png)
 🎥 [Voir la démonstration en vidéo] (https://urlr.me/DKQwu3)
+
+- [📘 Rapport d'analyse en PDF  des besoins métiers du client]
+- [📗 Cahier des charges fonctionnel en PDF du projet Portfolio]
+- [🚀 Diagramme de Gantt | Gestion du projet Portfolio]
+- [🎥 Session de formation/tuto outil Power BI]
+- [📕 Procédure de documentation en PDF 'Création d'un graphique d'analyse data']
+
+TABLEAU DE BORD PROFIL PROFESSIONNEL DATA ANALYST
+![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/.png)
+🎥 [Voir la démonstration en vidéo] (https://urlr.me/DKQwu3)
+
+
 
 N'hésitez pas à explorer mes projets et à me contacter ! 🚀
