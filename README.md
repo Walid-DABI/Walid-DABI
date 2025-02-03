@@ -48,7 +48,7 @@ TABLEAU DE BORD VEILLE MÉTIER
 ![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_dashboard_veille_metier.png)
 🎥 [Voir la démonstration en vidéo] (https://urlr.me/DKQwu3)
 
-- [📘 Rapport d'analyse en PDF  des besoins métiers du client]
+- [📘 Rapport d'analyse en PDF des besoins métiers du client] (https://urls.fr/FpOlWl)
 - [📗 Cahier des charges fonctionnel en PDF du projet Portfolio] (https://urls.fr/psts7P)
 - [🚀 Diagramme de Gantt | Gestion du projet Portfolio]
 - [🎥 Session de formation/tuto outil Power BI] (https://urls.fr/0QKp-z)
