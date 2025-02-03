@@ -14,21 +14,21 @@ Sur ce profil, vous trouverez des projets liés :
 
 TABLEAU DE BORD PROFIL PROFESSIONNEL DATA ANALYST
 ![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_dashboard_profil.png)
-🎥 [Voir la démonstration en vidéo] (https://urls.fr/Q_ImWK)
+🎥 [Voir la démonstration en vidéo](https://urls.fr/Q_ImWK)
 
 ## 📂 Mes projets 
 ### 👉 Retrouvez mes principaux Notebooks Jupyter ci-dessous : 
 
-- [🔗 Optimisation de gestion d'une boutique de vins et spiritueux | Nettoyage des données du stock] (https://nbviewer.org/github/Walid-DABI/Walid-DABI/blob/main/projet_gestion_stock_boutique.ipynb)  
-- [🔗 Analyse de tendance des prix de l'immobilier | Prédiction de la valorisation du portefeuille d'actif d'une agence immobilière] (https://nbviewer.org/github/Walid-DABI/Walid-DABI/blob/main/analyse-prix-immobilier.ipynb)
-- [🔗 Analyse d'une demande Business pour un studio de création de jeu vidéo | Identification des segments du marché les plus porteurs] (https://nbviewer.org/github/Walid-DABI/Walid-DABI/blob/main/projet-analyse-jeu-video.ipynb)
+- [🔗 Optimisation de gestion d'une boutique de vins et spiritueux | Nettoyage des données du stock](https://nbviewer.org/github/Walid-DABI/Walid-DABI/blob/main/projet_gestion_stock_boutique.ipynb)  
+- [🔗 Analyse de tendance des prix de l'immobilier | Prédiction de la valorisation du portefeuille d'actif d'une agence immobilière](https://nbviewer.org/github/Walid-DABI/Walid-DABI/blob/main/analyse-prix-immobilier.ipynb)
+- [🔗 Analyse d'une demande Business pour un studio de création de jeu vidéo | Identification des segments du marché les plus porteurs](https://nbviewer.org/github/Walid-DABI/Walid-DABI/blob/main/projet-analyse-jeu-video.ipynb)
 
 ### 📌 Et là, des projets sur d'autres supports :
 
 - [🔗 Caractériser les clients perdus à partir des données extraites du logiciel de gestion commerciale d'une banque]
 📽️ **Présentation PowerPoint** 👉 https://urlr.me/TCm6hp
-- [🔗 Requêter une base de donnée SQL d'une assurance habitation] (https://urlr.me/kK7UZf)
-- [🔗 Collecte de données / traitement pour mise en conformité RGPD d'un fichier d'assureur automobile] (https://urlr.me/RgGtkv)
+- [🔗 Requêter une base de donnée SQL d'une assurance habitation](https://1drv.ms/f/c/8bed31e70b5aef02/Eu1YuMye1WVLg45smmG-VAsBjaXXmwtAVUBJ77_OudKMKQ?e=3DPJSH))
+- [🔗 Collecte de données / traitement pour mise en conformité RGPD d'un fichier d'assureur automobile](https://urlr.me/RgGtkv)
 
 ### ⚡️ Tableaux de bord dynamiques Power BI :
 
@@ -37,19 +37,18 @@ TABLEAU DE BORD PROFIL PROFESSIONNEL DATA ANALYST
 *Ce dashboard présente des visualisations interactives dans le cadre de la gestion de projets d'une entreprise du secteur pharmaceutique. Son objectif consiste à évaluer les performances des différents projets IT et Marketing en cours dans le monde. Il s'adresse au Directeur Général, aux Directeurs Régionaux et aux Directeurs Pays de la société.*
 
 ![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_sanitoral.png)
-🎥 [Voir la démonstration en vidéo] (https://urlr.me/ZBfsWS)
+🎥 [Voir la démonstration en vidéo](https://urlr.me/ZBfsWS)
 
 - [🍷 Solution de data visualisation pour le suivi commercial d'une boutique de vin en ligne]
 
 *Ce dashboard présente des visualisations interactives dans le cadre du pilotage d'une activité de e-commerce. Il s'adresse au PDG et au Responsable des ventes, ainsi qu'aux chefs de produit.*
 
 ![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_bottleneck.png)
-🎥 [Voir la démonstration en vidéo] (https://urlr.me/n73TNC)
+🎥 [Voir la démonstration en vidéo](https://urlr.me/n73TNC)
 
-➤ [Dernier projet en date] (https://github.com/Walid-DABI/candidature_aeroworld)
 
-👉 [Visitez mon site PythonAnywhere](https://eric2mangel.pythonanywhere.com/)
+🚨🚨🚨
+👉 [Dernier projet en date : candidature au poste de chef de projet Data pour une entreprise du secteur de l'aéronautique](https://github.com/Walid-DABI/candidature_aeroworld)
 
-[Dernier projet en date](https://github.com/Walid-DABI/candidature_aeroworld)
 
 N'hésitez pas à explorer mes projets et à me contacter ! 🚀
