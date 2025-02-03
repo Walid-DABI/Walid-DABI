@@ -52,7 +52,7 @@ TABLEAU DE BORD VEILLE MÉTIER
 - [📗 Cahier des charges fonctionnel en PDF du projet Portfolio] (https://urls.fr/psts7P)
 - [🚀 Diagramme de Gantt | Gestion du projet Portfolio]
 - [🎥 Session de formation/tuto outil Power BI] (https://urls.fr/0QKp-z)
-- [📕 Procédure de documentation en PDF 'Création d'un graphique d'analyse data']
+- [📕 Procédure de documentation en PDF 'Création d'un graphique d'analyse data'] (https://urls.fr/0je8A7)
 
 TABLEAU DE BORD PROFIL PROFESSIONNEL DATA ANALYST
 ![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/.png)
