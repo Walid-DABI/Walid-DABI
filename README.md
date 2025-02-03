@@ -12,6 +12,10 @@ Sur ce profil, vous trouverez des projets liés :
 -  📈 **à l'analyse de tendance de prix et à la prédiction grâce au Machine Learning**
 -  🔎 **à l'analyse de données historiques pour répondre à une problématique Business et identifier les segments les plus pertinents d'un marché**
 
+TABLEAU DE BORD PROFIL PROFESSIONNEL DATA ANALYST
+![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_dashboard_profil.png)
+🎥 [Voir la démonstration en vidéo] (https://urls.fr/Q_ImWK)
+
 ## 📂 Mes projets 
 ### 👉 Retrouvez mes principaux Notebooks Jupyter ci-dessous : 
 
@@ -42,26 +46,5 @@ Sur ce profil, vous trouverez des projets liés :
 ![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_bottleneck.png)
 🎥 [Voir la démonstration en vidéo] (https://urlr.me/n73TNC)
 
-### 🛫 Portfolio de candidature Aéroworld :
-
-TABLEAU DE BORD VEILLE MÉTIER
-![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_dashboard_veille_metier.png)
-🎥 [Voir la démonstration en vidéo] (https://urlr.me/DKQwu3)
-
-- [📘 Rapport d'analyse en PDF des besoins métiers du client] (https://urls.fr/FpOlWl)
-- [📗 Cahier des charges fonctionnel en PDF du projet Portfolio] (https://urls.fr/psts7P)
-
-TABLEAU DE BORD DE GESTION DU PROJET PORTFOLIO | DIAGRAMME DE GANTT
-![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_dashboard_gantt.png)
-🎥 [Voir la démonstration en vidéo] (https://urls.fr/j_qGRa)
-
-
-- [🎥 Session de formation/tuto outil Power BI] (https://urls.fr/0QKp-z)
-- [📕 Procédure de documentation en PDF 'Création d'un graphique d'analyse data'] (https://urls.fr/0je8A7)
-
-
-TABLEAU DE BORD PROFIL PROFESSIONNEL DATA ANALYST
-![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_dashboard_profil.png)
-🎥 [Voir la démonstration en vidéo] (https://urls.fr/Q_ImWK)
 
 N'hésitez pas à explorer mes projets et à me contacter ! 🚀
