@@ -46,5 +46,6 @@ TABLEAU DE BORD PROFIL PROFESSIONNEL DATA ANALYST
 ![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_bottleneck.png)
 🎥 [Voir la démonstration en vidéo] (https://urlr.me/n73TNC)
 
+➤ [Dernier projet en date] (https://github.com/Walid-DABI/candidature_aeroworld)
 
 N'hésitez pas à explorer mes projets et à me contacter ! 🚀
