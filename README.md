@@ -19,6 +19,7 @@ Sur ce profil, vous trouverez des projets liés :
 - Outils BI & Data Viz : Power BI, Excel
 - Gestion de projet Data : cadrage des besoins, priorisation et suivi des tâches
 - Modélisation et reporting : KPI, storytelling visuel
+- Webmarketing et communication digitale
 
 
 TABLEAU DE BORD PROFIL PROFESSIONNEL DATA ANALYST
