@@ -12,6 +12,15 @@ Sur ce profil, vous trouverez des projets liés :
 -  📈 **à l'analyse de tendance de prix et à la prédiction grâce au Machine Learning**
 -  🔎 **à l'analyse de données historiques pour répondre à une problématique Business et identifier les segments les plus pertinents d'un marché**
 
+## À PROPOS DE MOI
+### ⭐️ Expertise et compétences clés
+- Programmation : SQL (SQLite), Python
+- Base de données : SQlite Studio, Big Query
+- Outils BI & Data Viz : Power BI, Excel
+- Gestion de projet Data : cadrage des besoins, priorisation et suivi des tâches
+- Modélisation et reporting : KPI, storytelling visuel
+
+
 TABLEAU DE BORD PROFIL PROFESSIONNEL DATA ANALYST
 ![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_dashboard_profil.png)
 🎥 [Voir la démonstration en vidéo](https://urls.fr/Q_ImWK)
