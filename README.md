@@ -14,13 +14,13 @@ Sur ce profil, vous trouverez des projets liés :
 
 ## À PROPOS DE MOI
 ### ⭐️ Expertise et compétences clés
-- Programmation : SQL (SQLite), Python (Pandas, Matplotlib, Seaborn)
-- Modélisation et reporting : KPI, storytelling visuel
-- Base de données : SQlite Studio, Big Query
-- Outils BI & Data Viz : Power BI, Excel
-- Gestion de projet Data : cadrage des besoins, priorisation et suivi des tâches
-- Modélisation et reporting : KPI, storytelling visuel
-- Webmarketing et communication digitale
+- **Programmation :** *SQL (SQLite), Python (Pandas, Matplotlib, Seaborn)*
+- **Modélisation et reporting :** *KPI, storytelling visuel*
+- **Base de données :** *SQlite Studio, Big Query*
+- **Outils BI & Data Viz :** *Power BI, Excel*
+- **Gestion de projet Data :** *cadrage des besoins, priorisation et suivi des tâches*
+- **Modélisation et reporting :** *KPI, storytelling visuel*
+- **Webmarketing et communication digitale**
 
 
 TABLEAU DE BORD PROFIL PROFESSIONNEL DATA ANALYST
