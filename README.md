@@ -36,7 +36,7 @@ TABLEAU DE BORD PROFIL PROFESSIONNEL DATA ANALYST
 ### 📌 Et là, des projets sur d'autres supports :
 
 - [🔗 Caractériser les clients perdus à partir des données extraites du logiciel de gestion commerciale d'une banque](https://drive.google.com/drive/folders/1xYAVSVL3qWdOvEveJDDQqg5pWLgEAo1w?usp=drive_link)
-- [🔗 Requêter une base de donnée SQL d'une assurance habitation](https://drive.google.com/drive/folders/1rs2yM9vwe83oqWeF0CpmZBCvR5fdr88x?usp=drive_link)
+- [🔗 Requêter une base de donnée SQL d'une assurance habitation](https://drive.google.com/drive/folders/1rs2yM9vwe83oqWeF0CpmZBCvR5fdr88x?usp=sharing)
 - [🔗 Collecte de données / traitement pour mise en conformité RGPD d'un fichier d'assureur automobile](https://drive.google.com/drive/folders/1JyqV9V6ZtV_Puf4aamp4E4tvaCossshh?usp=drive_link)
 
 ### ⚡️ Tableaux de bord dynamiques Power BI :
