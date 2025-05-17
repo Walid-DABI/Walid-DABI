@@ -46,7 +46,7 @@ TABLEAU DE BORD PROFIL PROFESSIONNEL DATA ANALYST
 *Ce dashboard présente des visualisations interactives dans le cadre de la gestion de projets d'une entreprise du secteur pharmaceutique. Son objectif consiste à évaluer les performances des différents projets IT et Marketing en cours dans le monde. Il s'adresse au Directeur Général, aux Directeurs Régionaux et aux Directeurs Pays de la société.*
 
 ![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_sanitoral.png)
-🎥 [Voir la démonstration en vidéo](https://youtu.be/YAkmEpJ4_TI)
+🎥 [Voir la démonstration en vidéo](https://youtu.be/4wUFKME3gZs)
 
 - 🍷 Solution de data visualisation pour le suivi commercial d'une boutique de vin en ligne
 
