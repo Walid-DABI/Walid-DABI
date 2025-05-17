@@ -24,7 +24,7 @@ Sur ce profil, vous trouverez des projets liés :
 
 TABLEAU DE BORD PROFIL PROFESSIONNEL DATA ANALYST
 ![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_dashboard_profil.png)
-🎥 [Voir la démonstration en vidéo](https://drive.google.com/file/d/1PZB5tL2_uGAploKbyER2lvUbzvf8V2wY/view?usp=sharing)
+🎥 [Voir la démonstration en vidéo](https://youtu.be/lBI8Rf31xJo)
 
 ## 📂 Mes projets 
 ### 👉 Retrouvez mes principaux Notebooks Jupyter ci-dessous : 
@@ -46,14 +46,14 @@ TABLEAU DE BORD PROFIL PROFESSIONNEL DATA ANALYST
 *Ce dashboard présente des visualisations interactives dans le cadre de la gestion de projets d'une entreprise du secteur pharmaceutique. Son objectif consiste à évaluer les performances des différents projets IT et Marketing en cours dans le monde. Il s'adresse au Directeur Général, aux Directeurs Régionaux et aux Directeurs Pays de la société.*
 
 ![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_sanitoral.png)
-🎥 [Voir la démonstration en vidéo](https://drive.google.com/file/d/1cqDJ9hjZqXqUwko7e82OrwQaQa5Pzcaz/view?usp=sharing)
+🎥 [Voir la démonstration en vidéo](https://youtu.be/YAkmEpJ4_TI)
 
 - 🍷 Solution de data visualisation pour le suivi commercial d'une boutique de vin en ligne
 
 *Ce dashboard présente des visualisations interactives dans le cadre du pilotage d'une activité de e-commerce. Il s'adresse au PDG et au Responsable des ventes, ainsi qu'aux chefs de produit.*
 
 ![Tableau de bord Power BI](https://raw.githubusercontent.com/Walid-DABI/Walid-DABI/main/assets/miniature_bottleneck.png)
-🎥 [Voir la démonstration en vidéo](https://drive.google.com/file/d/12LPeWm57ifKrgcOu-xWVrJSEGQl5_462/view?usp=sharing)
+🎥 [Voir la démonstration en vidéo](https://youtu.be/Sb0ZbhU0YaE)
 
 
 ### 🚨🚨🚨 Mon dernier projet en date :
